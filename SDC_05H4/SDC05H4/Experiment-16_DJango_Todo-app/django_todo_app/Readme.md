@@ -73,7 +73,8 @@ python manage.py runserver
 Open your browser and go to:
 http://127.0.0.1:8000/
 
-
+Attach Screenshot
+![Image](https://github.com/user-attachments/assets/a43debf8-4412-4fcf-924f-7a573680bcfc)
 LICENSE
 This project is licensed under the MIT License.
 
