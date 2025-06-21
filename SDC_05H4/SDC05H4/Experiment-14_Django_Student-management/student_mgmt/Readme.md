@@ -60,7 +60,11 @@ python manage.py runserver
 Visit:
 http://127.0.0.1:8000/
 
- 
+ Attach Screenshot
+ ![Image](https://github.com/user-attachments/assets/d45ed9c2-6f85-4985-b05e-878fcf1f367f)
+
+![Image](https://github.com/user-attachments/assets/517169c9-2105-402b-8cc2-932c98c2e165)
+
 LICENSE
 This project is licensed under the MIT License.
 
