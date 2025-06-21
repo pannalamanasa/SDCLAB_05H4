@@ -62,6 +62,9 @@ CREATE TABLE products (
   price DECIMAL(10,2)
 );
 
+Attach screenshot
+![Image](https://github.com/user-attachments/assets/931ea70b-b830-4cd3-8d1a-0449201eede7)
+
 LICENSE
 This project is open-source and available under the MIT License
 
