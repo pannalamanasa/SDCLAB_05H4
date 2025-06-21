@@ -61,7 +61,7 @@ SAMPLE OUTPUT
 [
   {
     "id": 1,
-    "name": "Swayam",
+    "name": "Manasa",
     "age": 21,
     "course": "Mathematics"
   }
