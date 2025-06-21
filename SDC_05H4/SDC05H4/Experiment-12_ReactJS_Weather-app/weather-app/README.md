@@ -55,6 +55,7 @@ npm start
 8.Visit in Browser
 http://localhost:3000
 
+![Image](https://github.com/user-attachments/assets/86fdb010-cb14-4431-8fef-af20332a40c2)
 LICENSE
 This project is open-source and available under the MIT License
 
